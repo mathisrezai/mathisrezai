@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mathis
+# Hi 👋, I'm Mathis
 
 🎓 A passionate student developer and general engineering student from Marseille.  
 💻 I love coding, solving problems, and exploring innovative solutions through exciting projects.  
