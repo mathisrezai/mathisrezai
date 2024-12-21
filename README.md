@@ -15,8 +15,8 @@
 
 ### 🛠️ Languages and Tools:
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" /></a>
-<a href="https://freefem.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/FF3366/geometry.png" alt="FreeFem++" /></a>
-<a href="https://cplusplus.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/00599C/c-plus-plus-logo.png" alt="C++" /></a>
+<a href="https://freefem.org/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF3366/geometry.png" alt="FreeFem++" /></a>  <a href="https://cplusplus.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/00599C/c-plus-plus-logo.png" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/ios-filled/50/F7DF1E/javascript-logo.png" alt="JavaScript" /></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/00979D/arduino.png" alt="Arduino" /></a>
 <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/00C4CC/canva.png" alt="Canva" /></a>
