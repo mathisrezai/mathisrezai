@@ -26,6 +26,6 @@
 Here are some of the things I have worked on. Feel free to explore each one!
 
 ### 🛡️ Contactless Smart Card System
- - **About:** This project involves developing a system for contactless smart cards with a focus on secure communication and data exchange. [Check it out here!](https://github.com/your-repo-link)  
+ - **About:** This project involves developing a system for contactless smart cards with a focus on secure communication and data exchange. [Check it out here!](https://github.com/mathisrezai/Contactless-Smart-Cards)  
  - **Technologies used:** Arduino, Python, RFID  
   
