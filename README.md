@@ -2,7 +2,7 @@
 
 🎓 A passionate student developer and general engineering student from Marseille.  
 💻 I love coding, solving problems, and exploring innovative solutions through exciting projects.  
-🚀 Right now, I'm showcasing the projects I've completed during my engineering studies, icluding the one I'm working on : a project for **colorizing black-and-white images using Python**. 
+🚀 Right now, I'm showcasing the projects I've completed during my engineering studies, icluding the one I'm working on : a project for **colorizing black-and-white images using Python**. [Check it out here!](https://github.com/mathisrezai/PY-Image-Colorization)   
 📫 You can reach me by email at **mathis.rezai@centrale-med.fr** or on [LinkedIn](https://www.linkedin.com/in/mathis-rezaï). Let's connect and build amazing things together!  
 
 
